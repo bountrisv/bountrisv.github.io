@@ -1,5 +1,5 @@
 ---
-layout: home 
+layout: page 
 title: Vasilis Bountris
 subtitle: Hi! 
 ---
@@ -10,4 +10,4 @@ I am a computer engineer. Currently, I am PhD candidate in the [Knowledge Manage
 
 I received my diploma in Electrical and Computer Engineering from Aristotle University of Thessaloniki. After that, I worked at [Geekbot](www.geekbot.com) building and deploying knowledge graphs using machine learning and natural language processing.
 
-My current research, which is part of the Collaborative Research Center [FONDA](https://fonda.hu-berlin.de/)
+My current research, which is part of the Collaborative Research Center [FONDA](https://fonda.hu-berlin.de/) and funded by the [DFG](https://www.dfg.de/en/), revolves around methods and tools for enabling efficient log management and monitoring of scientic workflows. 
