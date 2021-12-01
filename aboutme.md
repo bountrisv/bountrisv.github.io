@@ -6,7 +6,7 @@ subtitle: Hi!
 
 ### About me 
 
-I am a computer engineer. Currently, I am PhD candidate in the [Knowledge Management in Bioinformatics](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi) group in Humbold Universty of Berlin, supervised by [Prof. Ulf Leser](https://www2.informatik.hu-berlin.de/~leser/).
+I am a computer engineer. Currently, I am a PhD candidate in the [Knowledge Management in Bioinformatics](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi) group in Humbold Universty of Berlin, supervised by [Prof. Ulf Leser](https://www2.informatik.hu-berlin.de/~leser/).
 
 I received my diploma in Electrical and Computer Engineering from Aristotle University of Thessaloniki. After that, I worked at [Geekbot](www.geekbot.com) building and deploying knowledge graphs using machine learning and natural language processing.
 
